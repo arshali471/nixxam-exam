@@ -1,0 +1,11 @@
+python_nmap==0.7.1
+selenium==3.141.0
+psutil==5.8.0
+screeninfo==0.7
+requests==2.22.0
+chromedriver_autoinstaller==0.2.2
+py_cpuinfo==8.0.0
+Pillow==8.4.0
+python-dotenv==0.19.2
+python-nmap==0.7.1
+python-dotenv==0.19.2
